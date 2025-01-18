@@ -1,4 +1,16 @@
 # Course 1: Data analytics for Business
+## Docs
+
+This repo contains:
+
+ - Data files provided
+ - SQL file highlighting the queries run to perform Exploratory analysis
+ - A link to the dashboards created for 2Market (in Tableau Public)
+ - My technical report provided to the technical users of the dashboards and SQL
+
+## Assignment Result
+
+My grade for this assignment was 77%
 
 ## Exploratory analysis and presenting insights
 
@@ -6,7 +18,7 @@
 
 In course 1 of the Londond School of Economics' Data Analytics Career Accelerator, we were tasked with doing some analysis for the stakeholders of the fictional supermarket '2Market' using a variety of tools.
 
-**Assignment Scenario**
+## Assignment Scenario
 
 You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour. 
 
@@ -21,6 +33,6 @@ To support 2Market, you’ll:
  - Complete your analysis and create a dashboard: You’ll analyse data and create a dashboard that includes key metrics to inform decision-making (such as the average revenue from each marketing channel.)
  - Complete a report: You’ll write a report explaining your approach and any insights discovered.
 
-**Assignment Result**
 
-My grade for this assignment was 77%
+
+
