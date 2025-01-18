@@ -4,7 +4,7 @@
 This repo contains:
 
  - Data files provided
- - SQL file highlighting the queries run to perform Exploratory analysis
+ - SQL file highlighting the queries run to perform exploratory analysis
  - A link to the dashboards created for 2Market (in Tableau Public)
  - My technical report provided to the technical users of the dashboards and SQL
 
