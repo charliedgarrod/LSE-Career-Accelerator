@@ -3,6 +3,7 @@
 In course 1 of the Londond School of Economics' Data Analytics Career Accelerator, we were tasked with doing some analysis for the stakeholders of the fictional supermarket '2Market' using a variety of tools.
 
 **Assignment Scenario**
+
 You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour. 
 
 In particular, 2Market wants to understand:
@@ -16,4 +17,5 @@ Complete your analysis and create a dashboard: You’ll analyse data and create 
 Complete a report: You’ll write a report explaining your approach and any insights discovered.
 
 **Assignment Result**
+
 My grade for this assignment was 77%
