@@ -16,7 +16,7 @@ My grade for this assignment was 77%
 
 **Tools Used**: Excel, SQL, Tableau (link to [Tableau Public](https://public.tableau.com/app/profile/charles.garrod/viz/2MarketStakeholderDashboards/Demographics))
 
-In course 1 of the Londond School of Economics' Data Analytics Career Accelerator, we were tasked with doing some analysis for the stakeholders of the fictional supermarket '2Market' using a variety of tools.
+In course 1 of the London School of Economics' Data Analytics Career Accelerator, we were tasked with doing some analysis for the stakeholders of the fictional supermarket '2Market' using a variety of tools.
 
 ## Assignment Scenario
 
