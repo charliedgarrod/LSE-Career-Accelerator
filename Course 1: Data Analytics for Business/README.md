@@ -1,39 +1,47 @@
-# Course 1: Data analytics for Business
-## Docs
+2Market: Customer & Marketing Insights Dashboard
+Welcome to the 2Market Analytics Project, a deep dive into customer demographics, purchasing behavior, and marketing channel effectiveness for a multinational supermarket. This project showcases a complete data workflow from raw records to business recommendations through interactive dashboards and exploratory analysis.
 
-This repo contains:
+📌 Problem Statement
+Ineffective marketing campaigns and misaligned product offerings were costing 2Market time and revenue. Without a clear view of who the customers are, what they purchase, and which ads convert, 2Market risked investing in the wrong places.
+This project delivers a comprehensive solution: a set of dashboards and insights to guide smarter marketing and procurement decisions.
 
- - Data files provided
- - SQL file highlighting the queries run to perform exploratory analysis
- - Tableau Dashbaords (saved as .twbx files)
- - A link to the dashboards created for 2Market (in Tableau Public)
- - My technical report provided to the technical users of the dashboards and SQL
+🧠 Analytical Approach
+- Tools:
+- Excel: For initial EDA and data cleaning
+- SQL: For aggregation, anomaly handling, and demographic segmentation
+- Tableau: For dashboard design and insight delivery
+- Focus Areas:
+- Demographic segmentation (age, income, education, location)
+- Product-level sales trends
+- Marketing channel effectiveness and conversion
 
-## Assignment Result
-
-My grade for this assignment was 77%
-
-## Exploratory analysis and presenting insights
-
-**Tools Used**: Excel, SQL, Tableau (link to [Tableau Public](https://public.tableau.com/app/profile/charles.garrod/viz/2MarketStakeholderDashboards/Demographics))
-
-In course 1 of the London School of Economics' Data Analytics Career Accelerator, we were tasked with doing some analysis for the stakeholders of the fictional supermarket '2Market' using a variety of tools.
-
-## Assignment Scenario
-
-You are a data analyst working with 2Market, a global supermarket which sells products online and in-store, to help them understand their customer purchase behaviour. 
-
-In particular, 2Market wants to understand:
-
- - The demographics of their customers 
- - Which advertising channels seem to be the most effective
- - Which products seem to sell the best and if that varies based on demographic
-
-To support 2Market, you’ll:
-
- - Complete your analysis and create a dashboard: You’ll analyse data and create a dashboard that includes key metrics to inform decision-making (such as the average revenue from each marketing channel.)
- - Complete a report: You’ll write a report explaining your approach and any insights discovered.
+🔍 Sample Visualizations
+Customer Age Distribution
+Age Distribution
+Sales by Product Category and Country
+Sales by Product
+Ad Spend by Channel
+Ad Spend
+To explore the dashboards interactively, check out the Tableau Public link (if hosted externally).
 
 
+📊 Key Insights
+- Demographics:
+- Majority of customers are over 50, with an average age of 54
+- Most earn between $30,000–$40,000, and 50% hold a university degree
+- 72% of customers have children; married couples with no kids spend the most
+- Spending Behavior:
+- Spain leads in total revenue, Montenegro in per capita spend
+- Alcohol and non-vegetable items dominate sales across demographics
+- Summer months show peak activity, suggesting seasonal campaign potential
+- Marketing Effectiveness:
+- Instagram and Twitter are top-performing channels
+- Brochures had negligible conversions and should be discontinued
+- USA and Montenegro, despite strong per capita spend, are under-leveraged in ads
 
+🧭 Strategic Recommendations
+- Replicate Spain’s marketing strategy in underperforming but high-potential regions (e.g., USA, Montenegro)
+- Promote alcohol and ready-meal bundles via Instagram ads targeting couples
+- Discontinue low-ROI channels like brochures and redirect spend to social platforms and TikTok/YouTube trials
+- Investigate outlier income patterns in customers under 30 to refine segmentatio
 
