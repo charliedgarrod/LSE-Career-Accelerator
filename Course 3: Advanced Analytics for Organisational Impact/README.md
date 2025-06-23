@@ -1,7 +1,7 @@
 # Turtle Games: Predictive Analytics & Customer Insights
 
 This repository showcases a full-cycle data science project aimed at uncovering the drivers behind customer loyalty at Turtle Games—a global manufacturer and retailer of games and toys. Using customer metadata, reviews, and advanced modeling techniques, this analysis reveals patterns in customer engagement, spending behaviour, and sentiment, offering strategic insights for marketing and product development.
-Tools: Python, R, Scikit-learn, NLTK, Statsmodels, ggplot2, Tidyverse
+**Tools:** Python, R, Scikit-learn, NLTK, Statsmodels, ggplot2, Tidyverse
 
 📌 **Business Challenges**
 Turtle Games wants to better understand customer loyalty and refine marketing strategies by leveraging data from their loyalty points system (used here as a proxy for sales). Key business questions include:
